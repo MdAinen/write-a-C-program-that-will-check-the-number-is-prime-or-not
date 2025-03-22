@@ -1,0 +1,1 @@
+# write-a-C-program-that-will-check-the-number-is-prime-or-not
